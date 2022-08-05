@@ -1,7 +1,7 @@
 # OCP = Open-closed Princicple
 
 ## O = OCP = Open-closed Princicple
-## Principio aberto e fechado
+## Princípio aberto e fechado
 
 Uma classe tem ser:
 
